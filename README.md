@@ -9,7 +9,7 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 - [Home](#home)
 - [About Me](#about)
 - [Experience](#experience)
--[Projects](#projects)
+- [Projects](#projects)
 - [Contact Me](#contact)
 
 ## About
@@ -57,7 +57,5 @@ If you'd like to contribute to this project, please fork the repository and crea
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a pull request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
